@@ -1,0 +1,1 @@
+Sistem dikembangkan dengan Codeigniter HMVC dengan menggunakan database Oracle, Namun saat ini progress pengembangan masih sampai tahap desain.

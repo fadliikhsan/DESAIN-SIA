@@ -4,7 +4,7 @@
 				<ul class="content-submenu">				
 					<a href="<?php echo base_url(); ?>skripsi/getuploadproposal"><li id="tab" class="current">Upload Proposal</li></a>
 					<a href="<?php echo base_url(); ?>skripsi/getbimbingan"><li id="tab">Proses Bimbingan</li></a>
-					<li id="end-tab">Upload Draft</li>
+					<a href="<?php echo base_url(); ?>skripsi/getdfraft"><li id="end-tab">Upload Draft</li></a>
 					</ul>					
 			</div>
 			<div id="content-space">
